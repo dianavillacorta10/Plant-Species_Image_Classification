@@ -6,171 +6,170 @@
 <table>
   <tr>
     <td align="center">
-      <b>1. Money Plant</b><br>
+      <b>1. Nypa fruticans</b><br>
       <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/2e1815c821f4e14f53f66a09c591779693044710/money-plant.jpg" width="300"><br>
-      <i>Common Name:</i> Money Plant<br>
-      <i>Scientific Name:</i> Pachira aquatica<br>
-      A popular ornamental plant believed to bring good luck and prosperity.
+      <i>Common Name:</i> Nipa Palm<br>
+      <i>Scientific Name:</i> Nypa fruticans<br>
+      A mangrove palm that grows in estuaries and tidal rivers. It has long feather-like leaves, and its sap is used to make vinegar, sugar, and wine.
     </td>
     <td align="center">
-      <b>2. English Ivy</b><br>
+      <b>2. Heritiera littoralis</b><br>
       <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/ENGLISH%20IVY.jpg" width="300"><br>
-      <i>Common Name:</i> English Ivy<br>
-      <i>Scientific Name:</i> Hedera helix<br>
-      A climbing vine used as ground cover or for decorative purposes.
+      <i>Common Name:</i> Looking-glass Mangrove<br>
+      <i>Scientific Name:</i> Heritiera littoralis<br>
+      A small shrub-like mangrove with thick leaves. It survives in very salty mudflats.
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <b>3. Sweet Potato Vine</b><br>
+      <b>3. egialitis annulata</b><br>
       <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/SWEET%20POTATO%20VINE.jpg" width="300"><br>
-      <i>Common Name:</i> Sweet Potato Vine<br>
-      <i>Scientific Name:</i> Ipomoea batatas<br>
-      Ornamental vine with vibrant foliage, often used in gardens and hanging baskets.
+      <i>Common Name:</i> Club Mangrove<br>
+      <i>Scientific Name:</i> egialitis annulata<br>
+      A small shrub-like mangrove with thick leaves. It survives in very salty mudflats.
     </td>
     <td align="center">
-      <b>4. Ground Morning Glory</b><br>
+      <b>4. Aegiceras corniculatum</b><br>
       <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/GROUND%20MORNING%20GLORY.jpg" width="300"><br>
-      <i>Common Name:</i> Ground Morning Glory<br>
-      <i>Scientific Name:</i> Ipomoea repens<br>
-      Creeping plant with trumpet-shaped flowers, commonly used as ground cover.
+      <i>Common Name:</i> River Mangrove<br>
+      <i>Scientific Name:</i> Aegiceras corniculatum<br>
+      CA small tree or shrub found in mangrove swamps. It produces curved, horn-shaped fruits.
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <b>5. Strawberry</b><br>
+      <b>5. Ceriops tagal</b><br>
       <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/STRAWBERRY.jpg" width="300"><br>
-      <i>Common Name:</i> Strawberry<br>
-      <i>Scientific Name:</i> Fragaria × ananassa<br>
-      Small flowering plant cultivated for its sweet fruit.
+      <i>Common Name:</i> Spurred Mangrove<br>
+      <i>Scientific Name:</i> Ceriops tagal<br>
+      A small mangrove tree with stilt roots. It grows in muddy tidal areas and is used for charcoal.
     </td>
     <td align="center">
-      <b>6. Creeping Jenny</b><br>
+      <b>6. Bruguiera cylindrica</b><br>
       <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/CREEPING%20JENNY.jpg" width="300"><br>
-      <i>Common Name:</i> Creeping Jenny<br>
-      <i>Scientific Name:</i> Lysimachia nummularia<br>
-      Low-growing ground cover with trailing stems and yellow flowers.
+      <i>Common Name:</i> White-flowered Mangrove<br>
+      <i>Scientific Name:</i> Bruguiera cylindrica<br>
+      A medium-sized mangrove tree with knee roots and small white flowers
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <b>7. Periwinkle</b><br>
+      <b>7. Sonneratia alba</b><br>
       <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/PERIWINKLE.jpg" width="300"><br>
-      <i>Common Name:</i> Periwinkle<br>
-      <i>Scientific Name:</i> Vinca minor<br>
-      Evergreen creeping plant with purple or blue flowers.
+      <i>Common Name:</i> Mangrove Apple<br>
+      <i>Scientific Name:</i> Sonneratia albar<br>
+      A fast-growing mangrove with cone-shaped breathing roots and round fruits.
     </td>
     <td align="center">
-      <b>8. Baby's Tears</b><br>
+      <b>8. Xylocarpus moluccensis</b><br>
       <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/BABY'S%20TEARS.jpg" width="300"><br>
-      <i>Common Name:</i> Baby's Tears<br>
-      <i>Scientific Name:</i> Soleirolia soleirolii<br>
-      Small-leaved creeping plant, ideal for terrariums or indoor pots.
+      <i>Common Name:</i> Cannonball Mangrove<br>
+      <i>Scientific Name:</i> Xylocarpus moluccensis<br>
+      A large mangrove tree known for its round, woody fruits that look like cannonballs.
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <b>9. Virginia Creeper</b><br>
+      <b>9. VCeriops decandra</b><br>
       <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/VIRGINIA%20CREEPER.jpg" width="300"><br>
-      <i>Common Name:</i> Virginia Creeper<br>
-      <i>Scientific Name:</i> Parthenocissus quinquefolia<br>
-      Vigorous climbing vine with five-leaflet compound leaves.
+      <i>Common Name:</i> Yellow Mangrove<br>
+      <i>Scientific Name:</i> Ceriops decandra<br>
+      A small to medium mangrove tree that grows in muddy coastal areas and tolerates saltwater.
     </td>
     <td align="center">
-      <b>10. Asiatic Jasmine</b><br>
+      <b>10. Lumnitzera racemosa</b><br>
       <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/ASIATIC%20JASMINE.jpg" width="300"><br>
-      <i>Common Name:</i> Asiatic Jasmine<br>
-      <i>Scientific Name:</i> Trachelospermum asiaticum<br>
-      Evergreen vine with fragrant white flowers, often used as ground cover.
-    </td>
+      <i>Common Name:</i> White-flowered Black Mangrove<br>
+      <i>Scientific Name:</i> Lumnitzera racemosa<br>
+      A small coastal tree with white flowers, usually found at the landward side of mangroves.    </td>
   </tr>
 
   <tr>
     <td align="center">
-      <b>11. Dutchman’s Pipe</b><br>
+      <b>11. Thespesia populnea</b><br>
       <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/DUTCHMAN'S%20PIPE.jpg" width="300"><br>
-      <i>Common Name:</i> Dutchman’s Pipe<br>
-      <i>Scientific Name:</i> Aristolochia macrophylla<br>
-      Climbing vine with large, heart-shaped leaves and unusual pipe-shaped flowers.
+      <i>Common Name:</i> Portia Tree<br>
+      <i>Scientific Name:</i> Thespesia populnea<br>
+      A coastal tree with heart-shaped leaves and yellow hibiscus-like flowers.
     </td>
     <td align="center">
-      <b>12. Trailing Lantana</b><br>
+      <b>12. Calophyllum inophyllum</b><br>
       <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/TRAILING%20LANTANA.jpg" width="300"><br>
-      <i>Common Name:</i> Trailing Lantana<br>
-      <i>Scientific Name:</i> Lantana montevidensis<br>
-      Trailing flowering plant with clusters of colorful blooms.
+      <i>Common Name:</i> Beauty Leaf / Alexandrian Laure<br>
+      <i>Scientific Name:</i> Calophyllum inophyllum<br>
+      A medium-sized coastal tree with glossy leaves and fragrant white flowers. Its seeds produce oil used in medicine.
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <b>13. Hoya</b><br>
+      <b>13. Hibiscus tiliaceus</b><br>
       <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/HOYA.jpg" width="300"><br>
-      <i>Common Name:</i> Hoya<br>
-      <i>Scientific Name:</i> Hoya carnosa<br>
-      Succulent vine with waxy leaves and fragrant star-shaped flowers.
+      <i>Common Name:</i> Sea Hibiscus<br>
+      <i>Scientific Name:</i> Hibiscus tiliaceus<br>
+      A fast-growing coastal tree with large leaves and yellow flowers that turn orange
     </td>
     <td align="center">
-      <b>14. Mondo Grass</b><br>
+      <b>14. Cynometra ramiflora</b><br>
       <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/MONDO%20GRASS.jpg" width="300"><br>
-      <i>Common Name:</i> Mondo Grass<br>
-      <i>Scientific Name:</i> Ophiopogon japonicus<br>
-      Low-growing grass-like plant used as edging or ground cover.
+      <i>Common Name:</i> Fever Tree<br>
+      <i>Scientific Name:</i> Cynometra ramiflora<br>
+      A small to medium tree found in mangroves and coastal forests with compound leaves.
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <b>15. Golden Pothos</b><br>
+      <b>15. Phoenix paludosa</b><br>
       <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/GOLDEN%20POTHOS.jpg" width="300"><br>
-      <i>Common Name:</i> Golden Pothos<br>
-      <i>Scientific Name:</i> Epipremnum aureum<br>
-      Hardy vine with variegated leaves, ideal for indoor hanging pots.
+      <i>Common Name:</i>Mangrove Date Palm<br>
+      <i>Scientific Name:</i> Phoenix paludosa<br>
+      A clustering palm with spiny leaves that grows in tidal mangrove swamps.
     </td>
     <td align="center">
-      <b>16. Trailing Verbena</b><br>
+      <b>16. Sesuvium portulacastrum</b><br>
       <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/TRAILING%20VERBENA.jpg" width="300"><br>
-      <i>Common Name:</i> Trailing Verbena<br>
-      <i>Scientific Name:</i> Glandularia pulchella<br>
-      Trailing plant with small colorful flowers, perfect for containers and baskets.
+      <i>Common Name:</i> Sea Purslane<br>
+      <i>Scientific Name:</i> Sesuvium portulacastrum<br>
+      A creeping succulent plant found on sandy shores that helps prevent soil erosion.
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <b>17. Purple Heart</b><br>
+      <b>17. Excoecaria agallocha</b><br>
       <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/PURPLE%20HEART.jpg" width="300"><br>
-      <i>Common Name:</i> Purple Heart<br>
-      <i>Scientific Name:</i> Tradescantia pallida<br>
-      Creeping plant with striking purple leaves and small pink flowers.
+      <i>Common Name:</i> Blind-your-eye Mangrove<br>
+      <i>Scientific Name:</i> Excoecaria agallocha<br>
+      A mangrove tree with milky sap that can irritate the skin and eyes.
     </td>
     <td align="center">
-      <b>18. Partridge Berry</b><br>
+      <b>18. Pemphis acidula</b><br>
       <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/dfd20e07c8da92c9918d8aea91173c90241e49b5/PARTRIDGE%20BERRY.jpg" width="300"><br>
-      <i>Common Name:</i> Partridge Berry<br>
-      <i>Scientific Name:</i> Mitchella repens<br>
-      Creeping plant with small red berries, often used as ground cover.
+      <i>Common Name:</i> Ironwood (Pemphis)<br>
+      <i>Scientific Name:</i> Pemphis acidula<br>
+      A slow-growing shrub or small tree with very hard wood, found on rocky coasts.
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <b>19. Rock Cress</b><br>
+      <b>19. Kandelia candel</b><br>
       <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/ROCK%20CRESS.jpg" width="300"><br>
-      <i>Common Name:</i> Rock Cress<br>
-      <i>Scientific Name:</i> Aubrieta deltoidea<br>
-      Low-growing flowering plant, ideal for rock gardens or edging.
+      <i>Common Name:</i> Kandelia Mangrove<br>
+      <i>Scientific Name:</i> Kandelia candel<br>
+      A small mangrove tree with stilt roots that grows in estuaries.
     </td>
     <td align="center">
-      <b>20. Trailing Rosemary</b><br>
+      <b>20. Avicennia marina</b><br>
       <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/TRAILING%20ROSEMARY.jpg" width="300"><br>
-      <i>Common Name:</i> Trailing Rosemary<br>
-      <i>Scientific Name:</i> Rosmarinus officinalis<br>
-      Aromatic trailing herb with small blue flowers, used in gardens and cooking.
+      <i>Common Name:</i> Grey Mangrove<br>
+      <i>Scientific Name:</i> Avicennia marina<br>
+      A hardy mangrove species with pencil-like breathing roots that tolerate high salinity.
     </td>
   </tr>
 </table>
