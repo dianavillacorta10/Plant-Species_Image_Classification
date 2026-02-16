@@ -7,7 +7,7 @@
   <tr>
     <td align="center">
       <b>1. Nypa fruticans</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/2e1815c821f4e14f53f66a09c591779693044710/money-plant.jpg" width="300"><br>
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/5c61e0639b6c343236116c9bbcd62f61e6af7fec/nypa%20fruticans.jfif" width="300"><br>
       <i>Common Name:</i> Nipa Palm<br>
       <i>Scientific Name:</i> Nypa fruticans<br>
       A mangrove palm with long feather-like leaves. It grows in estuaries and tidal rivers. Its leaves are used for roofing, and its        sap can be made into vinegar, alcohol, or sugar.
