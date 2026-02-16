@@ -58,14 +58,14 @@
   <tr>
     <td align="center">
       <b>7. Sonneratia alba</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/PERIWINKLE.jpg" width="300"><br>
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/3d408c34c46c631752f9053a665fce33ab30784e/alba.jpg" width="300"><br>
       <i>Common Name:</i> Mangrove Apple<br>
       <i>Scientific Name:</i> Sonneratia alba<br>
       A fast-growing mangrove tree with cone-shaped breathing roots (pneumatophores). It produces round fruits and white flowers.
     </td>
     <td align="center">
       <b>8. Xylocarpus moluccensis</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/BABY'S%20TEARS.jpg" width="300"><br>
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/5c61e0639b6c343236116c9bbcd62f61e6af7fec/xylocarpos.jfif" width="300"><br>
       <i>Common Name:</i> Cannonball Mangrove<br>
       <i>Scientific Name:</i> Xylocarpus moluccensis<br>
       A large mangrove tree known for its round, woody fruits that resemble cannonballs. It grows in coastal forests and estuaries.
@@ -75,14 +75,14 @@
   <tr>
     <td align="center">
       <b>9. Ceriops decandra</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-bClassification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/VIRGINIA%20CREEPER.jpg" width="300"><br>
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/5c61e0639b6c343236116c9bbcd62f61e6af7fec/decandra).jfif" width="300"><br>
       <i>Common Name:</i> Yellow Mangrove<br>
       <i>Scientific Name:</i> Ceriops decandra<br>
       A small to medium mangrove tree with stilt roots. It grows in muddy coastal areas and is tolerant of saltwater.
     </td>
     <td align="center">
       <b>10. Lumnitzera racemosa</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/ASIATIC%20JASMINE.jpg" width="300"><br>
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/5c61e0639b6c343236116c9bbcd62f61e6af7fec/luzminitzera.jpeg" width="300"><br>
       <i>Common Name:</i> White-flowered Black Mangrove<br>
       <i>Scientific Name:</i> Lumnitzera racemosa<br>
       A small coastal tree with white flowers. It grows at the landward edge of mangrove forests.
@@ -92,14 +92,14 @@
   <tr>
     <td align="center">
       <b>11. Thespesia populnea</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/DUTCHMAN'S%20PIPE.jpg" width="300"><br>
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/50b715250bb48031ff65f7fa0b56c478f6cb3ba1/Thespesia.jpg" width="300"><br>
       <i>Common Name:</i> Portia Tree<br>
       <i>Scientific Name:</i> Thespesia populnea<br>
       A coastal tree with heart-shaped leaves and yellow hibiscus-like flowers. It is often planted for shade and ornamental purposes.
     </td>
     <td align="center">
       <b>12. Calophyllum inophyllum</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/TRAILING%20LANTANA.jpg" width="300"><br>
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/50b715250bb48031ff65f7fa0b56c478f6cb3ba1/calophyllum-inophyllum-500x500.webp" width="300"><br>
       <i>Common Name:</i> Beauty Leaf / Alexandrian Laurel<br>
       <i>Scientific Name:</i> Calophyllum inophyllum<br>
       A medium-sized coastal tree with glossy leaves and fragrant white flowers. Its oil-rich seeds are used in traditional medicine.
@@ -109,14 +109,14 @@
   <tr>
     <td align="center">
       <b>13. Hibiscus tiliaceus</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/HOYA.jpg" width="300"><br>
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/5c61e0639b6c343236116c9bbcd62f61e6af7fec/hibiscus.jfif" width="300"><br>
       <i>Common Name:</i> Sea Hibiscus<br>
       <i>Scientific Name:</i> Hibiscus tiliaceus<br>
       A fast-growing coastal tree with large heart-shaped leaves and yellow flowers that turn orange. It is commonly found along             beaches and rivers.
     </td>
     <td align="center">
       <b>14. Cynometra ramiflora</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/MONDO%20GRASS.jpg" width="300"><br>
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/50b715250bb48031ff65f7fa0b56c478f6cb3ba1/Cynometra_ramiflora_(gulos)_emergent_pink_leaves._Dededo%2C_Guam.jpg" width="300"><br>
       <i>Common Name:</i> Fever Tree / Katmon<br>
       <i>Scientific Name:</i> Cynometra ramiflora<br>
       A small to medium tree found in mangroves and coastal forests. It has compound leaves and produces edible fruits in some areas.
@@ -126,14 +126,14 @@
   <tr>
     <td align="center">
       <b>15. Phoenix paludosa</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/GOLDEN%20POTHOS.jpg" width="300"><br>
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/5c61e0639b6c343236116c9bbcd62f61e6af7fec/paludusa.jfif" width="300"><br>
       <i>Common Name:</i> Mangrove Date Palm<br>
       <i>Scientific Name:</i>Phoenix paludosa<br>
       A clustering palm found in mangrove swamps. It has spiny leaf bases and grows in tidal areas.
     </td>
     <td align="center">
       <b>16. Sesuvium portulacastrum</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/TRAILING%20VERBENA.jpg" width="300"><br>
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/5c61e0639b6c343236116c9bbcd62f61e6af7fec/sevusium.jfif" width="300"><br>
       <i>Common Name:</i> Sea Purslane<br>
       <i>Scientific Name:</i> Sesuvium portulacastrum<br>
       A creeping succulent plant that grows along sandy shores and salt marshes. It helps prevent soil erosion..
@@ -143,14 +143,14 @@
   <tr>
     <td align="center">
       <b>17. Excoecaria agallocha</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/PURPLE%20HEART.jpg" width="300"><br>
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/5c61e0639b6c343236116c9bbcd62f61e6af7fec/excocaria.jfif" width="300"><br>
       <i>Common Name:</i> Blind-your-eye Mangrove<br>
       <i>Scientific Name:</i> Excoecaria agallocha<br>
       A small mangrove tree that produces milky sap which can irritate the skin and eyes. Found in tidal forests.
     </td>
     <td align="center">
       <b>18. Pemphis acidula</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/dfd20e07c8da92c9918d8aea91173c90241e49b5/PARTRIDGE%20BERRY.jpg" width="300"><br>
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/50b715250bb48031ff65f7fa0b56c478f6cb3ba1/Acidula.jpg" width="300"><br>
       <i>Common Name:</i> Ironwood / Pemphisy<br>
       <i>Scientific Name:</i> Pemphis acidula<br>
       A dense, slow-growing shrub or small tree found on rocky coasts. Its hard wood is used for tools and bonsai.
@@ -159,14 +159,14 @@
   <tr>
     <td align="center">
       <b>19. Kandelia candel</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/ROCK%20CRESS.jpg" width="300"><br>
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/5c61e0639b6c343236116c9bbcd62f61e6af7fec/kandelia.jfif" width="300"><br>
       <i>Common Name:</i> Kandelia Mangrove<br>
       <i>Scientific Name:</i> Kandelia candel<br>
       A small mangrove tree with stilt roots. It grows in estuaries and coastal wetlands and produces elongated propagules.
     </td>
     <td align="center">
       <b>20. Avicennia marina</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/TRAILING%20ROSEMARY.jpg" width="300"><br>
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/50b715250bb48031ff65f7fa0b56c478f6cb3ba1/Avicennia_marina_01.jpg" width="300"><br>
       <i>Common Name:</i> Grey Mangrove<br>
       <i>Scientific Name:</i> Avicennia marina<br>
       A hardy mangrove species with pencil-like breathing roots. It tolerates high salinity and is widely distributed in tropical and        subtropical coasts.
