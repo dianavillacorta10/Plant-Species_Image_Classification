@@ -207,51 +207,51 @@
   <tr>
     <td align="center">
       <b>Test 1</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/af090575d0d354177f2fd9c27678009a266a8d59/BABY_S%20TEARS.jpeg" width="150">
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/4093a495844bb9a18ea3b0672a60fbc11be0d9b9/Screenshot%202026-02-13%20152232.png" width="150">
     </td>
     <td align="center">
       <b>Test 2</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/7eac9161b4f369dd25d14d8dcc4c9fb6afa973c9/ENGLISH%20IVY.png" width="150">
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/4093a495844bb9a18ea3b0672a60fbc11be0d9b9/Screenshot%202026-02-13%20152344.png" width="150">
     </td>
     <td align="center">
       <b>Test 3</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/6ee0b924ec7c9a1e818704849b441412d83cd5e3/GROUND%20MORNING%20GLORY.png" width="150">
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/4093a495844bb9a18ea3b0672a60fbc11be0d9b9/Screenshot%202026-02-13%20152513.png" width="150">
     </td>
     <td align="center">
       <b>Test 4</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/e41723a6a0036db1b9d516314b5a423bf7d29b6a/MONEY%20PLANT.png" width="150">
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/4093a495844bb9a18ea3b0672a60fbc11be0d9b9/Screenshot%202026-02-13%20152608.png" width="150">
     </td>
     <td align="center">
       <b>Test 5</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/5ac2a0072ee568df7a0919814e15c70c24753d9b/PURPLE%20HEART.jpeg" width="150">
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/4093a495844bb9a18ea3b0672a60fbc11be0d9b9/5.png" width="150">
     </td>
   </tr>
 
   <tr>
     <td align="center">
       <b>Test 6</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/fadd0a729346e41c8506e0f1dec1b95822b8b150/ROCK%20CRESS.jpeg" width="150">
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/4093a495844bb9a18ea3b0672a60fbc11be0d9b9/6.png" width="150">
     </td>
     <td align="center">
       <b>Test 7</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/9ded2b5ff4e28863502827f5f6889dd87c4d53f8/SWEET%20POTATO%20VINE.png" width="150">
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/4093a495844bb9a18ea3b0672a60fbc11be0d9b9/7.png" width="150">
     </td>
     <td align="center">
       <b>Test 8</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/54dede4e175a3def83962c7edf6126c0c89ced5f/TRAILING%20LANTANA.jpeg" width="150">
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/4093a495844bb9a18ea3b0672a60fbc11be0d9b9/8.png" width="150">
     </td>
     <td align="center">
       <b>Test 9</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/8abca0383615695cd120a86ee4742d9aee4c9abd/TRAILING%20VERBENA.jpeg" width="150">
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/4093a495844bb9a18ea3b0672a60fbc11be0d9b9/9.png" width="150">
     </td>
     <td align="center">
       <b>Test 10</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/e71d124b7fc329fd58222bcc6b075c70187bd8d5/VIRGINIA%20CREEPER.jpeg" width="150">
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/4093a495844bb9a18ea3b0672a60fbc11be0d9b9/10.png" width="150">
     </td>
   </tr>
 </table>
 
-# Plant-Species_Image_Classification
+Reflection Question
 
 1. How did the number of images per class affect your model’s accuracy?
    Increasing and balancing the number of images per class generally improves model accuracy and performance
