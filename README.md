@@ -191,7 +191,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/b2c323380ef5fbd5c93aea5e551a0990118c329b/Under%20the%20hood.png" width="200">
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/6d51a3938c2e86a1b29580acc7c47804625400a4/Screenshot%202026-02-13%20152137.png" width="200">
     </td>
     <td align="center">
       <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/45ffb3be858f829ca766507148811e9e0a8bc94d/A.png".png" width="200">
