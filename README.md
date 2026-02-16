@@ -75,7 +75,7 @@
   <tr>
     <td align="center">
       <b>9. Ceriops decandra</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/VIRGINIA%20CREEPER.jpg" width="300"><br>
+      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-bClassification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/VIRGINIA%20CREEPER.jpg" width="300"><br>
       <i>Common Name:</i> Yellow Mangrove<br>
       <i>Scientific Name:</i> Ceriops decandra<br>
       A small to medium mangrove tree with stilt roots. It grows in muddy coastal areas and is tolerant of saltwater.
