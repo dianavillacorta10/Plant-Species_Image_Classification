@@ -14,7 +14,7 @@
     </td>
     <td align="center">
       <b>2. Heritiera littoralis</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/ENGLISH%20IVY.jpg" width="300"><br>
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/02a64f17c1cceeb3d32ffcc3078e440b7b0fa9da/Heritiera-ittoralis-IMG_0195.jpg" width="300"><br>
       <i>Common Name:</i> Looking-glass Mangrove<br>
       <i>Scientific Name:</i> Heritiera littoralis<br>
       A large mangrove tree with shiny green leaves and silver undersides. It grows along riverbanks and coastal forests.
@@ -24,14 +24,14 @@
   <tr>
     <td align="center">
       <b>3. Aegialitis annulata</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/SWEET%20POTATO%20VINE.jpg" width="300"><br>
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/5c61e0639b6c343236116c9bbcd62f61e6af7fec/annulata.jpg" width="300"><br>
       <i>Common Name:</i> Club Mangrove<br>
       <i>Scientific Name:</i> Aegialitis annulata<br>
       A small shrub-like mangrove found in saline mudflats. It has thick leaves and tolerates high salt conditions..
     </td>
     <td align="center">
       <b>4. Aegiceras corniculatum</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/GROUND%20MORNING%20GLORY.jpg" width="300"><br>
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/3d408c34c46c631752f9053a665fce33ab30784e/Aegiceras%20corniculatum_Padel2.jpg" width="300">      <br>
       <i>Common Name:</i> River Mangrove<br>
       <i>Scientific Name:</i> Aegiceras corniculatum<br>
       A shrub or small tree found in mangrove forests. It produces curved, horn-shaped fruits and grows in brackish water.
@@ -41,14 +41,14 @@
   <tr>
     <td align="center">
       <b>5. Ceriops tagal</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/STRAWBERRY.jpg" width="300"><br>
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/3d408c34c46c631752f9053a665fce33ab30784e/Ceriops%20tagal%20_0285.jpg" width="300"><br>
       <i>Common Name:</i> Spurred Mangrove<br>
       <i>Scientific Name:</i> Ceriops tagal<br>
       A small mangrove tree with buttress roots. It thrives in muddy tidal areas and is often used for firewood and charcoal.
     </td>
     <td align="center">
       <b>6. Bruguiera cylindricay</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/edf920832f0b8c312eceb6ccb4d9bba252912229/CREEPING%20JENNY.jpg" width="300"><br>
+      <img src="https://github.com/dianavillacorta10/Plant-Species_Image_Classification/blob/3d408c34c46c631752f9053a665fce33ab30784e/Bruguiera_cylindrica_(L.)_Blume_(53230720782).jpg"     width="300"><br>
       <i>Common Name:</i> White-flowered Mangrove<br>
       <i>Scientific Name:</i> Bruguiera cylindrica<br>
       A medium-sized mangrove tree with knee roots. It produces small white flowers and grows in tidal swamps.
